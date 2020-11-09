@@ -1,7 +1,7 @@
 // Jeniffer Vasquez
 // HW#2Q2
 // The following program is made to calculate prefix operations utilizing stacks data structure.
-
+// Text file for this code is named "CNjokes.txt"
 #include <iostream>
 #include <stack>
 #include <ctype.h> //for isdigit function
