@@ -1,3 +1,6 @@
+//Jeniffer Vasquez 
+//Homework #2 Question 1, commenting code
+
 //Header File: linkedStack.h
 
 #ifndef H_StackType
