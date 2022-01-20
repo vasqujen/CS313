@@ -1,6 +1,3 @@
-//***********************************************************
-// Author: D.S. Malik
-//
 // Program: Postfix Calculator
 // This program evaluates postfix expressions.
 //***********************************************************
