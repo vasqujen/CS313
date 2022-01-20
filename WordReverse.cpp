@@ -1,6 +1,6 @@
 //  Jeniffer Vasquez
 //  HW#2Q6
-//  Program designed to read text file with Chuck Norris jokes and reverse each word and print them.
+//  Program designed to read text file (CNjokes) with Chuck Norris jokes and reverse each word and print them.
 
 #include <iostream>
 #include <fstream>
