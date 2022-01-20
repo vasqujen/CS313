@@ -4,7 +4,7 @@
 // Program: Postfix Calculator
 // This program evaluates postfix expressions.
 //***********************************************************
-//Jeniffer Vasquez Question 1, commenting code
+//Jeniffer Vasquez Question 1
 
 #include <iostream>
 #include <iomanip>
